@@ -1,0 +1,5 @@
+F:\Users\Alex\Documents\C# Progik\gyök közelítés\gyök közelítés\bin\Debug\gyök közelítés.exe
+F:\Users\Alex\Documents\C# Progik\gyök közelítés\gyök közelítés\bin\Debug\gyök közelítés.pdb
+F:\Users\Alex\Documents\C# Progik\gyök közelítés\gyök közelítés\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Alex\Documents\C# Progik\gyök közelítés\gyök közelítés\obj\Debug\gyök közelítés.exe
+F:\Users\Alex\Documents\C# Progik\gyök közelítés\gyök közelítés\obj\Debug\gyök közelítés.pdb
